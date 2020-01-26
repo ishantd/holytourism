@@ -426,16 +426,16 @@ input.input100 {
   position: absolute;
   z-index: -2;
   top: 0;
-  right: 100%;
+  right: 77%;
   width: 10000px;
   height: 100%;
   background-color: #fff;
-  transform-origin: bottom right;
+  /* transform-origin: bottom right;
   -webkit-transform: skewX(156deg);
   -moz-transform: skewX(156deg);
   -ms-transform: skewX(156deg);
   -o-transform: skewX(156deg);
-  transform: skewX(156deg);
+  transform: skewX(156deg); */
 }
 
 /*---------------------------------------------*/
